@@ -79,6 +79,7 @@ The following is an unsolicited list of resources I genuinely enjoy and find to 
 
 ## AI/ChatGPT/Prompt Engineering
 - ChatGPT Prompt Engineering for Developers: https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers
+- ChatGPT Beginner's Guide: https://github.com/bg-write/chatGPT-cheatsheet
 - Learn Prompting: https://learnprompting.org/docs/intro
 - Prompt Engineering Guide: https://www.promptingguide.ai
 - In-Context Prompting: https://lilianweng.github.io/posts/2023-03-15-prompt-engineering
