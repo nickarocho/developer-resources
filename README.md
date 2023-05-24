@@ -9,7 +9,7 @@ The following is an unsolicited list of resources I genuinely enjoy and find to 
 - Good thread on "company loyalty vs. making more money": https://twitter.com/QuinnyPig/status/1436129343399346184
 - "Ten Rules for Negotiating a Job Offer" by Haseeb Qureshi: https://www.freecodecamp.org/news/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6/
   - Podcast version: https://open.spotify.com/episode/6mUTKCgMnyLkC0lx6JYdwa?si=46105a39256f4a61
-- "How Not to Bomb Your Offer Negotiation" by Haseeb Qureshi: https://haseebq.com/how-not-to-bomb-your-offer-negotiation/3
+- "How Not to Bomb Your Offer Negotiation" by Haseeb Qureshi: https://haseebq.com/how-not-to-bomb-your-offer-negotiation/
 
 ## Interview Prep
 - Leet Code: https://leetcode.com
