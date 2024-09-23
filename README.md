@@ -1,17 +1,8 @@
 # Great developer resources I use and love 
 The following is an unsolicited list of resources I genuinely enjoy and find to be extremely valuable and high quality. Thank you to all the amazing creators on this list.
 
-## Career Development
-- Levels.fyi: https://www.levels.fyi
-- Blind: https://www.teamblind.com
-- Hired: https://hired.com
-- Fearless Salary Negotiation: https://fearlesssalarynegotiation.com/
-- Good thread on "company loyalty vs. making more money": https://twitter.com/QuinnyPig/status/1436129343399346184
-- "Ten Rules for Negotiating a Job Offer" by Haseeb Qureshi: https://www.freecodecamp.org/news/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6/
-  - Podcast version: https://open.spotify.com/episode/6mUTKCgMnyLkC0lx6JYdwa?si=46105a39256f4a61
-- "How Not to Bomb Your Offer Negotiation" by Haseeb Qureshi: https://haseebq.com/how-not-to-bomb-your-offer-negotiation/
-
 ## Interview Prep
+- JavaScript Algorithms and Data Structures Masterclass (Colt Steele): https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass
 - Leet Code: https://leetcode.com
 - Code Wars: https://www.codewars.com
 - Interview Cake: https://www.interviewcake.com
@@ -19,7 +10,6 @@ The following is an unsolicited list of resources I genuinely enjoy and find to 
 - Project Euler:
   - About: https://www.freecodecamp.org/learn/project-euler
   - Practice: https://www.freecodecamp.org/learn/project-euler
-- JavaScript Algorithms and Data Structures Masterclass (Colt Steele): https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass
 
 ## Books
 - "Where the Wizards Stay Up Late" by Katie Hafner: https://www.amazon.com/Where-Wizards-Stay-Up-Late/dp/0684832674
@@ -31,6 +21,8 @@ The following is an unsolicited list of resources I genuinely enjoy and find to 
 
 ## Newsletters/Communities
 - Quincy Larson's "5 Links Worth Your Time" Friday Emails: (opt in when creating an account at https://www.freecodecamp.org)
+- TL;DR: https://tldr.tech/
+- TL;DR Web Dev: https://tldr.tech/webdev
 - Frontend Focus: https://frontendfoc.us
 - The Hustle - Tech & Business News: https://thehustle.co
 - Josh Comeau's newsletter: https://www.joshwcomeau.com
@@ -39,6 +31,7 @@ The following is an unsolicited list of resources I genuinely enjoy and find to 
 - Smashing Magazine: https://www.smashingmagazine.com
 - Web Designer Depot: https://www.webdesignerdepot.com
 - Jonas Schmedtmann: https://codingheroes.io
+- Codrops: https://tympanus.net/codrops/
 
 ## Podcasts
 - The FreeCodeCamp Podcast: https://open.spotify.com/show/7CpuEnbCLIXwI6LEcbBOYP?si=4c33e510d8224365
@@ -62,10 +55,8 @@ The following is an unsolicited list of resources I genuinely enjoy and find to 
 - Advanced CSS & Sass (Jonas Schmedtmann): https://www.udemy.com/course/advanced-css-and-sass/
 - General Assembly (workshops, weekend & part time courses): General Assembly Workshops: https://generalassemb.ly/education?event=true&format=classes-workshops
 
-## Topics not covered in class to maybe focus on next
-- JavaScript
-- JavaScript!
-- JAVAAAASSSCRRRRIIIPPPPTTTTT!!!
+## Topics to explore
+- Fundamental and Advanced JavaScript
 - TypeScript
 - React Native
 - Next.js
@@ -77,7 +68,7 @@ The following is an unsolicited list of resources I genuinely enjoy and find to 
 - Prompt Engineering
 - OpenAI API's
 
-## AI/ChatGPT/Prompt Engineering
+## AI/ChatGPT/Prompt Engineering Resources
 - ChatGPT Prompt Engineering for Developers: https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers
 - ChatGPT Beginner's Guide: https://github.com/bg-write/chatGPT-cheatsheet
 - Learn Prompting: https://learnprompting.org/docs/intro
@@ -88,3 +79,13 @@ The following is an unsolicited list of resources I genuinely enjoy and find to 
 - Prompt Snippets: https://www.adaptify.ai/templates/category/prompt-snippets
 - Microsoft - Prompt Engineering Techniques: https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/advanced-prompt-engineering
 - Wolfram Deep Dive - What is ChatGPT?: https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
+
+## Career Development
+- Levels.fyi: https://www.levels.fyi
+- Blind: https://www.teamblind.com
+- Hired: https://hired.com
+- Fearless Salary Negotiation: https://fearlesssalarynegotiation.com/
+- Good thread on "company loyalty vs. making more money": https://twitter.com/QuinnyPig/status/1436129343399346184
+- "Ten Rules for Negotiating a Job Offer" by Haseeb Qureshi: https://www.freecodecamp.org/news/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6/
+  - Podcast version: https://open.spotify.com/episode/6mUTKCgMnyLkC0lx6JYdwa?si=46105a39256f4a61
+- "How Not to Bomb Your Offer Negotiation" by Haseeb Qureshi: https://haseebq.com/how-not-to-bomb-your-offer-negotiation/
